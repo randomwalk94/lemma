@@ -1,16 +1,12 @@
 # user variables, change this to make custom site.
 
-name: Lemma
+name: Hai Le
 desc: Yet another simple theme for Jekyll.
 author:
-  name: neizod
+  name: Hai Le
   avatar: //gravatar.com/avatar/daa1cc36ed2ab0d13045d5cd2431cde9?s=320
   profile: |
-    Just another ordinary grad student in computer engineering.
-    I'm interest in programming language, algorithm, and mathematics.
-
-    I live in Chiang Mai or Bangkok, Thailand.
-    And you may found me around BarCamp event ;D
+     I'm a PhD student in Mathematics at Penn State
   socials:
     facebook:
     twitter: //twitter.com/neizod
@@ -25,7 +21,7 @@ license: MIT License
 
 # theme variables, change this to make site looks best.
 baseurl: /lemma-theme
-paginate: 2
+paginate: 5
 
 
 # system variables, do not change unless you knew what's it does.
